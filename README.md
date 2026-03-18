@@ -23,17 +23,17 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
 
-## ⏰ Cuadrante horario de las exposiciones
-
-La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo 
-suficiente a su presentación.
-
-## 📝 Fechas a tener en cuenta para exponer
+## 📝 Fechas a tener en cuenta
 * Anteproyecto: **25 de marzo de 2026**
 * Revisión (checkpoint): **20 de abril de 2026**
 * Segunda Revisión (2º checkpoint): **11 de mayo de 2026**
 * Entrega de proyecto: **29 de mayo de 2026**
 * Exposiciones: **04 y 05 de junio de 2026**
+
+## ⏰ Cuadrante horario de las exposiciones
+
+La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo 
+suficiente a su presentación.
 
 #### :calendar: lunes 04 de junio de 2026
 
