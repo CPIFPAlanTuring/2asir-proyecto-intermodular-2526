@@ -28,40 +28,25 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo 
 suficiente a su presentación.
 
-## 📝 Fechas a tener en cuenta para exponer en la 1ª evaluación
-* Anteproyecto: **27 de octubre de 2025**
-* Revisión (checkpoint): **10 de noviembre de 2025**
-* Segunda Revisión (2º checkpoint): **24 de noviembre de 2025**
-* Entrega de proyecto: **15 de diciembre de 2025**
-* Exposiciones: **17 de diciembre de 2025**
+## 📝 Fechas a tener en cuenta para exponer
+* Anteproyecto: **25 de marzo de 2026**
+* Revisión (checkpoint): **20 de abril de 2026**
+* Segunda Revisión (2º checkpoint): **11 de mayo de 2026**
+* Entrega de proyecto: **29 de mayo de 2026**
+* Exposiciones: **04 y 05 de junio de 2026**
 
-#### :calendar: miércoles 17 de diciembre de 2025
-
-- [ ] 18:00h **Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
-
-## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
-* Anteproyecto: **28 de enero de 2026**
-* Revisión (checkpoint): **16 de febrero de 2026**
-* Segunda Revisión (2º checkpoint): **02 de marzo de 2026**
-* Entrega de proyecto: **13 de marzo de 2026**
-* Exposiciones: **17 de marzo de 2026**
-
-#### :calendar: martes 17 de marzo de 2026
-
-NO SE PRESENTA NINGÚN PROYECTO A PETICIÓN DEL ALUMNADO
-
-## 📝 Fechas a tener en cuenta para exponer en la 3ª evaluación
-* Anteproyecto: **10 de abril de 2026**
-* Revisión (checkpoint): **08 de mayo de 2026**
-* Segunda Revisión (2º checkpoint): **05 de junio de 2026**
-* Entrega de proyecto: **12 de junio de 2026**
-* Exposiciones: **16 de junio de 2026**
-
-#### :calendar: martes 16 de junio de 2026
+#### :calendar: lunes 04 de junio de 2026
 
 - [ ] 09:00h **Proyecto xx** - Alumno xx
 - [ ] 09:20h **Proyecto xx** - Alumno xx
 - [ ] 09:50h **Proyecto xx** - Alumno xx
+
+#### :calendar: martes 05 de junio de 2026
+
+- [ ] 09:00h **Proyecto xx** - Alumno xx
+- [ ] 09:20h **Proyecto xx** - Alumno xx
+- [ ] 09:50h **Proyecto xx** - Alumno xx
+
 ---
 ## Guía para la presentación - apartados de la presentación
 
