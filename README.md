@@ -5,7 +5,7 @@ En este repositorio se encuentra centralizada toda la información relativa al *
 
 ## Requisitos y criterios a seguir
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2asir-tfc-2526/wiki).
+Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio]([https://github.com/CPIFPAlanTuring/2asir-proyecto-intermodular-2526/wiki]).
 
 ## Profesores
 
