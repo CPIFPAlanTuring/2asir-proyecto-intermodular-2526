@@ -14,6 +14,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
 * [José David Quero Sánchez](https://github.com/josedavid-quero)
 * [Galina Georgieva Dimitrova](https://github.com/galinadim)
+* [José Emilio Sánchez García](https://)
 ## Índice a los proyectos de cada alumno
 
 * **01: Proyecto xx** - Alumno xx
