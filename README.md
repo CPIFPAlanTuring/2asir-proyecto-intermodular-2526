@@ -17,7 +17,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [José Emilio Sánchez García](https://)
 ## Índice a los proyectos de cada alumno
 
-* **01: Snipe-it en Docker** - Víctor Díaz Viceira
+* **01: Snipe-IT en Docker** - Víctor Díaz Viceira
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://github.com/CoKayn22/01-Proyecto-Snipe-it-en-Docker---Alumno-Victor-Diaz-Viceira)
     - [Checkpoint](https://)
