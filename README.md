@@ -24,7 +24,14 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
  
-* **02: Proyecto xx** - Alumno xx
+* **02: Proyecto IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
+    - [Anteproyecto](https://)
+    - [Repositorio del proyecto](https://)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
+
+* **03: Proyecto xx** - Alumno xx
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://github.com/CoKayn22/01-Proyecto-Snipe-it-en-Docker---Alumno-Victor-Diaz-Viceira)
     - [Checkpoint](https://)
