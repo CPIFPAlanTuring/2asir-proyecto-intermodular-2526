@@ -25,7 +25,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
  
 * **02: Proyecto IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://lavender-selenium-772.notion.site/Anteproyecto-Proyecto-Servidor-IT-Naira-Da-Silva-y-Ra-l-Ram-rez-32cef204532080aca77ce1015135baf5)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
@@ -33,7 +33,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 * **03: Proyecto xx** - Alumno xx
     - [Anteproyecto](https://)
-    - [Repositorio del proyecto](https://github.com/CoKayn22/01-Proyecto-Snipe-it-en-Docker---Alumno-Victor-Diaz-Viceira)
+    - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
