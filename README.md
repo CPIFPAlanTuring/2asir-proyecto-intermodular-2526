@@ -24,7 +24,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
  
-* **02: Proyecto IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
+* **02: Servidor IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
     - [Anteproyecto](https://lavender-selenium-772.notion.site/Anteproyecto-Proyecto-Servidor-IT-Naira-Da-Silva-y-Ra-l-Ram-rez-32cef204532080aca77ce1015135baf5)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
