@@ -38,7 +38,21 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
 
-* **04: Proyecto xx** - Alumno xx
+* **04: Plataforma de Aprovisionamiento Automatizado sobre Proxmox VE** - Alejandro Cano Gil
+    - [Anteproyecto](https://spurious-barnacle-f4d.notion.site/Anteproyecto-TFG-ASIR-AutoServicio-32cbe06e75a2801b8134c994f5ac8ec3)
+    - [Repositorio del proyecto](https://github.com/canillo1/AutoServicio)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
+ 
+* **05: Proyecto xx** - Alumno xx
+    - [Anteproyecto](https://)
+    - [Repositorio del proyecto](https://)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
+ 
+  * **06: Proyecto xx** - Alumno xx
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
