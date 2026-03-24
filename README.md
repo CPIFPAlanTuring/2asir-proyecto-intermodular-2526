@@ -45,8 +45,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
  
-* **05: Proyecto xx** - Alumno xx
-    - [Anteproyecto](https://)
+* **05: Gestión de tickets interno** - Noé Medina González
+    - [Anteproyecto](https://www.notion.so/Anteproyecto-No-Medina-Gonz-lez-32cd0c37c3368045a2b9ed353acf8e53)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
