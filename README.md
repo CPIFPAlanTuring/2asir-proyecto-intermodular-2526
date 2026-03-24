@@ -38,7 +38,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
 
-* **04: Plataforma de Aprovisionamiento Automatizado sobre Proxmox VE** - Alejandro Cano Gil
+* **04: Autoservicio** - Alejandro Cano Gil
     - [Anteproyecto](https://spurious-barnacle-f4d.notion.site/Anteproyecto-TFG-ASIR-AutoServicio-32cbe06e75a2801b8134c994f5ac8ec3)
     - [Repositorio del proyecto](https://github.com/canillo1/AutoServicio)
     - [Checkpoint](https://)
@@ -52,7 +52,14 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
 
-* **06: Proyecto xx** - Alumno xx
+* **06: Pohl-SafeStorage** - David Fernández Maestre
+    - [Anteproyecto](https://www.notion.so/Anteproyecto-Pohl-SafeStorage-32d258c7c1548010aab1fe4c996182f3)
+    - [Repositorio del proyecto](https://github.com/DavidFernandezMaestre/pohl-cloud-infrastructure)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
+ 
+* **07: Proyecto xx** - Alumno xx
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
