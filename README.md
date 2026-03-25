@@ -80,7 +80,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
 
-* **10: Proyecto xx** - Esther Estefany Cruz Nina
+* **10: Plataforma de virtualización centralizada para entornos educativos con Proxmox VE** - Esther Estefany Cruz Nina
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://github.com/ecrunin612/PVE-ELECTRICIDAD_2ASIR_PI)
     - [Checkpoint](https://)
