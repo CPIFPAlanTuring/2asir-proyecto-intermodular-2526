@@ -94,7 +94,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
 
-* **12: Automatización RRHH Quantia** - Ignacio Domínguez Díaz
+* **12: Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
     - [Anteproyecto](https://meteor-mind-dec.notion.site/Anteproyecto-ASIR-Ignacio-Dom-nguez-D-az-32d12f6d711e80bbb77efe0cf96d7210)
     - [Repositorio del proyecto](https://github.com/Idomdia0906/2asir-proyecto-automatizacion-quantia)
     - [Checkpoint](https://)
