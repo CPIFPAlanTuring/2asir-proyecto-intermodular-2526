@@ -79,8 +79,22 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+
+* **10: Proyecto xx** - Esther Estefany Cruz Nina
+    - [Anteproyecto](https://)
+    - [Repositorio del proyecto](https://github.com/ecrunin612/PVE-ELECTRICIDAD_2ASIR_PI)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
+
+* **11: NOC-ALH — Centro de Operaciones de Red** - Roberto Sánchez Ortega
+    - [Anteproyecto](https://treasure-kite-794.notion.site/NOC-ALH-Centro-de-Operaciones-de-Red-32da62ffa48480059a20e02d4619efd5?source=copy_link)
+    - [Repositorio del proyecto](https://github.com/Robeeerto/proyecto-rso)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
  
-* **07: Proyecto xx** - Alumno xx
+* **12: Proyecto xx** - Alumno xx
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
