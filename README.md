@@ -58,6 +58,13 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+
+* **07: Implementación de infraestructura integral virtualizada educativa** - Eric Alexandru Vladescu
+    - [Anteproyecto](https://likeable-shad-c46.notion.site/Anteproyecto-de-Fin-de-Grado-ASIR-a285f0f5c4944430844bd7880508413c)
+    - [Repositorio del proyecto](https://github.com/EricOpss/Proyecto-ASIR)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
  
 * **07: Proyecto xx** - Alumno xx
     - [Anteproyecto](https://)
