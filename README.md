@@ -65,6 +65,13 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+
+* **08: Proyecto xx** - Francisco Brenes Moreno
+    - [Anteproyecto](https://global-griffin-672.notion.site/AnteProyecto-Francisco-Brenes-Moreno-32d4ddae9a52801694dcc5118e01a2ea)
+    - [Repositorio del proyecto](https://github.com/FranBrenes/ProyectoFBM)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
  
 * **07: Proyecto xx** - Alumno xx
     - [Anteproyecto](https://)
