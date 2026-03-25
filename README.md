@@ -32,7 +32,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
 
 * **03: Plataforma unificada para entornos de desarrollo** - Beatriz Castilla Cantero
-    - [Anteproyecto](https://www.notion.so/Plataforma-unificada-para-entornos-de-desarrollo-329c929504cb8015aba7e7368e250a76)
+    - [Anteproyecto](https://grizzly-snarl-0f3.notion.site/Anteproyecto-Plataforma-unificada-para-entornos-de-desarrollo-329c929504cb8015aba7e7368e250a76)
     - [Repositorio del proyecto](https://github.com/beatriz2c/2asir-proyecto-intermodular-2526-bcascan499)
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
