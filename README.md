@@ -102,7 +102,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
 
 * **13: Proyecto xx** - Javier Aguilar Postigo
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://plausible-wing-65d.notion.site/Anteproyecto-Javier-Aguilar-Postigo-32ddce04cbf9806f87b6f73c57f94367)
     - [Repositorio del proyecto](https://github.com/JavierAgui1/ProyectoJAP)
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
