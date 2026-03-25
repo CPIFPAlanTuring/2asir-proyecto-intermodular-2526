@@ -66,9 +66,16 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://)
     - [Video final](https://)
 
-* **08: Proyecto xx** - Francisco Brenes Moreno
+* **08: Diseño e implementación de una infraestructura IT para una empresa SaaS** - Francisco Brenes Moreno
     - [Anteproyecto](https://global-griffin-672.notion.site/AnteProyecto-Francisco-Brenes-Moreno-32d4ddae9a52801694dcc5118e01a2ea)
     - [Repositorio del proyecto](https://github.com/FranBrenes/ProyectoFBM)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
+
+* **09: Cologne DataHub: Arquitectura, Seguridad y Orquestación de una API de Geodatos** - Francisco Gómez Palomo
+    - [Anteproyecto](https://cologne-datahub.notion.site/Cologne-Datahub-32dd13355df8804db043f28942998cc6)
+    - [Repositorio del proyecto](https://github.com/SaitamaRules/Cologne-Datahub)
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
