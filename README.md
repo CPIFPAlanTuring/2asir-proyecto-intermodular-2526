@@ -26,7 +26,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
  
 * **02: Servidor IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
     - [Anteproyecto](https://lavender-selenium-772.notion.site/Anteproyecto-Proyecto-Servidor-IT-Naira-Da-Silva-y-Ra-l-Ram-rez-32cef204532080aca77ce1015135baf5)
-    - [Repositorio del proyecto](https://)
+    - [Repositorio del proyecto](https://github.com/lilwalrus/Proyecto-Servidor-IT-Naira-Da-Silva-y-Ra-l-Ram-rez-)
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
