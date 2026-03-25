@@ -93,8 +93,15 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+
+* **12: Automatización RRHH Quantia** - Ignacio Domínguez Díaz
+    - [Anteproyecto](https://meteor-mind-dec.notion.site/Anteproyecto-ASIR-Ignacio-Dom-nguez-D-az-32d12f6d711e80bbb77efe0cf96d7210)
+    - [Repositorio del proyecto](https://github.com/Idomdia0906/2asir-proyecto-automatizacion-quantia)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
  
-* **12: Proyecto xx** - Alumno xx
+* **13: Proyecto xx** - Alumno xx
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
