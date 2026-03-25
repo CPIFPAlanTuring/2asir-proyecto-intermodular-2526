@@ -100,8 +100,15 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+
+* **13: Proyecto xx** - Javier Aguilar Postigo
+    - [Anteproyecto](https://)
+    - [Repositorio del proyecto](https://github.com/JavierAgui1/ProyectoJAP)
+    - [Checkpoint](https://)
+    - [2º Checkpoint](https://)
+    - [Video final](https://)
  
-* **13: Proyecto xx** - Alumno xx
+* **14: Proyecto xx** - Alumno xx
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
