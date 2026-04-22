@@ -63,6 +63,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **07: Implementación de infraestructura integral virtualizada educativa** - Eric Alexandru Vladescu
     - [Anteproyecto](https://likeable-shad-c46.notion.site/Anteproyecto-de-Fin-de-Grado-ASIR-a285f0f5c4944430844bd7880508413c)
