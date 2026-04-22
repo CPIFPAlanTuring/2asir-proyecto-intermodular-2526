@@ -141,6 +141,9 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 Duración de la exposición:
 * Será de **10 minutos** para los **grupos de dos personas**.
 * Será de **5 minutos** para el **alumnado** que haya decidido realizar el proyecto **solo**.
+
+Tras cada exposicón se abrirá un tiempo de pregruntas de 5 minutos.
+
 Se dejará un margen de 5 minutos adicionales entre exposiciones.
 
 El alumnado deberá llegar con tiempo suficiente a su presentación. La exposición del proyecto es **obligatoria**. Si, por causas justificadas, algún alumno/a no llega la hora indicada en el calendario de exposiciones, deberá notificarlo al profesorado y esperar a que se le indique un nuevo día y hora para realizar la exposición.
