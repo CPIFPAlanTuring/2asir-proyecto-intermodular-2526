@@ -127,17 +127,22 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo 
 suficiente a su presentación.
 
-#### :calendar: lunes 04 de junio de 2026
+#### :calendar: miércoles 03 de junio de 2026
 
-- [ ] 09:00h **Proyecto xx** - Alumno xx
-- [ ] 09:20h **Proyecto xx** - Alumno xx
-- [ ] 09:50h **Proyecto xx** - Alumno xx
-
-#### :calendar: martes 05 de junio de 2026
-
-- [ ] 09:00h **Proyecto xx** - Alumno xx
-- [ ] 09:20h **Proyecto xx** - Alumno xx
-- [ ] 09:50h **Proyecto xx** - Alumno xx
+- [ ] 09:30h **Snipe-IT en Docker (Sistema de Inventariado)** - Víctor Díaz Viceira
+- [ ] 09:45h **Servidor IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
+- [ ] 10:05h **Plataforma unificada para entornos de desarrollo** - Beatriz Castilla Cantero
+- [ ] 10:20h **Autoservicio** - Alejandro Cano Gil
+- [ ] 10:35h **Gestión de tickets interno** - Noé Medina González
+- [ ] 10:50h **Pohl-SafeStorage** - David Fernández Maestre
+- [ ] 12:00h **Implementación de infraestructura integral virtualizada educativa** - Eric Alexandru Vladescu
+- [ ] 12:15h **Diseño e implementación de una infraestructura IT para una empresa SaaS** - Francisco Brenes Moreno
+- [ ] 12:30h **Cologne DataHub: Arquitectura, Seguridad y Orquestación de una API de Geodatos** - Francisco Gómez Palomo
+- [ ] 12:45h **Plataforma de virtualización centralizada para entornos educativos con Proxmox VE** - Esther Estefany Cruz Nina
+- [ ] 13:00h **NOC-ALH — Centro de Operaciones de Red** - Roberto Sánchez Ortega
+- [ ] 13:15h **Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
+- [ ] 13:30h **Sistema de gestión integral para gimnasios** - Javier Aguilar Postigo
+- [ ] 13:45h **Sistema Automático de Control de Accesos** - Jose Alcaide Fernández
 
 ---
 ## Guía para la presentación - apartados de la presentación
