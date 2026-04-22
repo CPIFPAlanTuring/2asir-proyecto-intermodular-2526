@@ -11,10 +11,12 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [José Antonio Pérez Alías](https://github.com/joseantper)
+* [Carlos Alberto Sánchez Yúfera](https://)
 * [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
 * [José David Quero Sánchez](https://github.com/josedavid-quero)
 * [Galina Georgieva Dimitrova](https://github.com/galinadim)
 * [José Emilio Sánchez García](https://github.com/Emilio-SG-ing)
+
 ## Índice a los proyectos de cada alumno
 
 * **01: Snipe-IT en Docker (Sistema de Inventariado)** - Víctor Díaz Viceira
