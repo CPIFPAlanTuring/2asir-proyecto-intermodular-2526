@@ -23,6 +23,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
  
 * **02: Servidor IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
     - [Anteproyecto](https://lavender-selenium-772.notion.site/Anteproyecto-Proyecto-Servidor-IT-Naira-Da-Silva-y-Ra-l-Ram-rez-32cef204532080aca77ce1015135baf5)
@@ -30,6 +31,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **03: Plataforma unificada para entornos de desarrollo** - Beatriz Castilla Cantero
     - [Anteproyecto](https://grizzly-snarl-0f3.notion.site/Anteproyecto-Plataforma-unificada-para-entornos-de-desarrollo-329c929504cb8015aba7e7368e250a76)
@@ -37,6 +39,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **04: Autoservicio** - Alejandro Cano Gil
     - [Anteproyecto](https://spurious-barnacle-f4d.notion.site/Anteproyecto-TFG-ASIR-AutoServicio-32cbe06e75a2801b8134c994f5ac8ec3)
@@ -44,6 +47,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
  
 * **05: Gestión de tickets interno** - Noé Medina González
     - [Anteproyecto](https://absorbed-success-064.notion.site/Anteproyecto-No-Medina-Gonz-lez-32cd0c37c3368045a2b9ed353acf8e53)
@@ -51,6 +55,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **06: Pohl-SafeStorage** - David Fernández Maestre
     - [Anteproyecto](https://www.notion.so/Anteproyecto-Pohl-SafeStorage-32d258c7c1548010aab1fe4c996182f3)
@@ -65,6 +70,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **08: Diseño e implementación de una infraestructura IT para una empresa SaaS** - Francisco Brenes Moreno
     - [Anteproyecto](https://global-griffin-672.notion.site/AnteProyecto-Francisco-Brenes-Moreno-32d4ddae9a52801694dcc5118e01a2ea)
@@ -72,6 +78,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **09: Cologne DataHub: Arquitectura, Seguridad y Orquestación de una API de Geodatos** - Francisco Gómez Palomo
     - [Anteproyecto](https://cologne-datahub.notion.site/Cologne-Datahub-32dd13355df8804db043f28942998cc6)
@@ -79,6 +86,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **10: Plataforma de virtualización centralizada para entornos educativos con Proxmox VE** - Esther Estefany Cruz Nina
     - [Anteproyecto](https://www.notion.so/Plataforma-de-virtualizaci-n-centralizada-para-entornos-educativos-con-Proxmox-VE-32c3b7acf62a8099a664d19e77d11e9c)
@@ -86,6 +94,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **11: NOC-ALH — Centro de Operaciones de Red** - Roberto Sánchez Ortega
     - [Anteproyecto](https://treasure-kite-794.notion.site/NOC-ALH-Centro-de-Operaciones-de-Red-32da62ffa48480059a20e02d4619efd5?source=copy_link)
@@ -93,6 +102,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **12: Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
     - [Anteproyecto](https://meteor-mind-dec.notion.site/Anteproyecto-ASIR-Ignacio-Dom-nguez-D-az-32d12f6d711e80bbb77efe0cf96d7210)
@@ -100,6 +110,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 * **13: Sistema de gestión integral para gimnasios** - Javier Aguilar Postigo
     - [Anteproyecto](https://plausible-wing-65d.notion.site/Anteproyecto-Javier-Aguilar-Postigo-32ddce04cbf9806f87b6f73c57f94367)
@@ -107,6 +118,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
  
 * **14: Sistema Automático de Control de Accesos** - Jose Alcaide Fernández
     - [Anteproyecto](https://gratis-earthworm-88a.notion.site/Anteproyecto-Jose-Alcaide-Fernandez-32e320f4ddea80b1a249f52e10b5d0ca)
@@ -114,6 +126,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
+    - [Presentación FFEOE](https://)
 
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **25 de marzo de 2026**
