@@ -180,6 +180,7 @@ El alumnado deberá llegar con tiempo suficiente a su presentación. La exposici
 * 7. Dificultades encontradas
 * 8. Posibles mejoras
 * 9. Conclusión
+* 10. Despedida
 
 ---
 
