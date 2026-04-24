@@ -11,7 +11,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [José Antonio Pérez Alías](https://github.com/joseantper)
-* [Carlos Alberto Sánchez Yúfera](https://)
+* [Carlos Alberto Sánchez Yúfera](https://github.com/casyufera)
 * [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
 * [José David Quero Sánchez](https://github.com/josedavid-quero)
 * [Galina Georgieva Dimitrova](https://github.com/galinadim)
