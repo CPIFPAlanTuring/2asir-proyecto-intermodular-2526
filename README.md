@@ -136,7 +136,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * Revisión (checkpoint): **20 de abril de 2026**
 * Segunda Revisión (2º checkpoint): **11 de mayo de 2026**
 * Entrega de proyecto: **29 de mayo de 2026**
-* Exposiciones: **04 y 05 de junio de 2026**
+* Exposiciones: **03 de junio de 2026**
 
 ## ⏰ Cuadrante horario de las exposiciones
 
