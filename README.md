@@ -162,10 +162,12 @@ El alumnado deberá llegar con tiempo suficiente a su presentación. La exposici
 - [ ] 12:15h **Diseño e implementación de una infraestructura IT para una empresa SaaS** - Francisco Brenes Moreno
 - [ ] 12:30h **Cologne DataHub: Arquitectura, Seguridad y Orquestación de una API de Geodatos** - Francisco Gómez Palomo
 - [ ] 12:45h **Plataforma de virtualización centralizada para entornos educativos con Proxmox VE** - Esther Estefany Cruz Nina
-- [ ] 13:00h **NOC-ALH — Centro de Operaciones de Red** - Roberto Sánchez Ortega
-- [ ] 13:15h **Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
-- [ ] 13:30h **Sistema de gestión integral para gimnasios** - Javier Aguilar Postigo
-- [ ] 13:45h **Sistema Automático de Control de Accesos** - Jose Alcaide Fernández
+- [ ] 13:00h **Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
+- [ ] 13:15h **Sistema de gestión integral para gimnasios** - Javier Aguilar Postigo
+- [ ] 13:30h **Sistema Automático de Control de Accesos** - Jose Alcaide Fernández
+
+#### :calendar: miércoles 10 de junio de 2026
+- [ ] 09:30h **NOC-ALH — Centro de Operaciones de Red** - Roberto Sánchez Ortega
 
 ---
 ## Guía para la presentación - apartados de la presentación
