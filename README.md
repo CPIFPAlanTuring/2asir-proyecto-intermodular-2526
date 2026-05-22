@@ -22,8 +22,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **01: Snipe-IT en Docker (Sistema de Inventariado)** - Víctor Díaz Viceira
     - [Anteproyecto](https://pinto-brand-343.notion.site/Anteproyecto-V-ctor-D-az-Viceira-32ab77c9c9fb808e8a31f811534ce2b0)
     - [Repositorio del proyecto](https://github.com/CoKayn22/01-Proyecto-Snipe-it-en-Docker---Alumno-Victor-Diaz-Viceira)
-    - [Checkpoint](https://)
-    - [2º Checkpoint](https://)
+    - [Checkpoint](https://drive.google.com/file/d/1Tj2t0JpeYWeo3JPjqJSz48cu8FWjtGPz/view)
+    - [2º Checkpoint](https://drive.google.com/file/d/1yybTzbHj8UptrbnjbF-4yTeOj3xhz9xT/view)
     - [Video final](https://)
     - [Presentación FFEOE](https://)
  
