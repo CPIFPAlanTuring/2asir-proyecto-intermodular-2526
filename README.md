@@ -27,6 +27,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
       
     <img height="50px" src="img/freepik.png">
+    
     - [Presentación FFEOE](https://)
  
 * **02: Servidor IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
@@ -35,6 +36,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://www.youtube.com/watch?v=YZFJJDdT_FM)
     - [2º Checkpoint](https://www.youtube.com/watch?v=_-pwZuOKRis)
     - [Video final](https://)
+    - 
     - [Presentación FFEOE](https://)
 
 * **03: Plataforma unificada para entornos de desarrollo** - Beatriz Castilla Cantero
