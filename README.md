@@ -27,6 +27,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
 
     <br>
+
+        [![Presentación FFEOE](img/freepik.png)](url_del_enlace)
     <img height="50px" src="img/freepik.png">
     
     - [Presentación FFEOE](https://)
