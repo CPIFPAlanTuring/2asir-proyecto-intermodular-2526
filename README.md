@@ -25,6 +25,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://drive.google.com/file/d/1Tj2t0JpeYWeo3JPjqJSz48cu8FWjtGPz/view)
     - [2º Checkpoint](https://drive.google.com/file/d/1yybTzbHj8UptrbnjbF-4yTeOj3xhz9xT/view)
     - [Video final](https://)
+      
+    <img height="50px" src="img/freepik.png">
     - [Presentación FFEOE](https://)
  
 * **02: Servidor IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
