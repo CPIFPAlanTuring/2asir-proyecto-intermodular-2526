@@ -61,7 +61,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/dedalus.JPG" alt="Presentación FFEOE: Dedalus" height="50px">
+        </a>
  
 * **05: Gestión de tickets interno** - Noé Medina González
     - [Anteproyecto](https://absorbed-success-064.notion.site/Anteproyecto-No-Medina-Gonz-lez-32cd0c37c3368045a2b9ed353acf8e53)
@@ -84,7 +88,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - ***Presentación FFEOE:***
 
         <a href="https://" target="_blank">
-          <img src="img/erasmus-plus.png" alt="Presentación FFEOE: Erasmus+" height="50px">
+          <img src="img/erasmus-plus.png" alt="Presentación FFEOE: Erasmus+" height="200px">
         </a>
 
 * **07: Implementación de infraestructura integral virtualizada educativa** - Eric Alexandru Vladescu
@@ -93,7 +97,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/erasmus-plus.png" alt="Presentación FFEOE: Erasmus+" height="200px">
+        </a>
 
 * **08: Diseño e implementación de una infraestructura IT para una empresa SaaS** - Francisco Brenes Moreno
     - [Anteproyecto](https://global-griffin-672.notion.site/AnteProyecto-Francisco-Brenes-Moreno-32d4ddae9a52801694dcc5118e01a2ea)
@@ -101,7 +109,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/erasmus-plus.png" alt="Presentación FFEOE: Erasmus+" height="200px">
+        </a>
 
 * **09: Cologne DataHub: Arquitectura, Seguridad y Orquestación de una API de Geodatos** - Francisco Gómez Palomo
     - [Anteproyecto](https://cologne-datahub.notion.site/Cologne-Datahub-32dd13355df8804db043f28942998cc6)
@@ -109,7 +121,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/asac.png" alt="Presentación FFEOE: ASAC" height="50px">
+        </a>
 
 * **10: Plataforma de virtualización centralizada para entornos educativos con Proxmox VE** - Esther Estefany Cruz Nina
     - [Anteproyecto](https://www.notion.so/Plataforma-de-virtualizaci-n-centralizada-para-entornos-educativos-con-Proxmox-VE-32c3b7acf62a8099a664d19e77d11e9c)
@@ -117,7 +133,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/poli.png" alt="Presentación FFEOE: IES Politécnico" height="50px">
+        </a>
 
 * **11: NOC-ALH — Centro de Operaciones de Red** - Roberto Sánchez Ortega
     - [Anteproyecto](https://treasure-kite-794.notion.site/NOC-ALH-Centro-de-Operaciones-de-Red-32da62ffa48480059a20e02d4619efd5?source=copy_link)
@@ -125,7 +145,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/alhaurin.png" alt="Presentación FFEOE: Ayuntamiento de Alhaurín de la Torre" height="50px">
+        </a>
 
 * **12: Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
     - [Anteproyecto](https://meteor-mind-dec.notion.site/Anteproyecto-ASIR-Ignacio-Dom-nguez-D-az-32d12f6d711e80bbb77efe0cf96d7210)
@@ -133,7 +157,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/quantia.png" alt="Presentación FFEOE: QUANTIA" height="50px">
+        </a>
 
 * **13: Sistema de gestión integral para gimnasios** - Javier Aguilar Postigo
     - [Anteproyecto](https://plausible-wing-65d.notion.site/Anteproyecto-Javier-Aguilar-Postigo-32ddce04cbf9806f87b6f73c57f94367)
@@ -141,7 +169,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/babel.png" alt="Presentación FFEOE: Babel" height="50px">
+        </a>
  
 * **14: Sistema Automático de Control de Accesos** - Jose Alcaide Fernández
     - [Anteproyecto](https://gratis-earthworm-88a.notion.site/Anteproyecto-Jose-Alcaide-Fernandez-32e320f4ddea80b1a249f52e10b5d0ca)
@@ -149,7 +181,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+        - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/anytech365.png" alt="Presentación FFEOE: Anytech 365" height="50px">
+        </a>
 
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **25 de marzo de 2026**
