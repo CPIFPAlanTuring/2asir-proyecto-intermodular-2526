@@ -27,7 +27,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
     - ***Presentación FFEOE:***
 
-        <a href="https://www.google.com" target="_blank">
+        <a href="https://" target="_blank">
           <img src="img/freepik.png" alt="Presentación FFEOE: Freepik" height="50px">
         </a>
  
@@ -37,8 +37,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://www.youtube.com/watch?v=YZFJJDdT_FM)
     - [2º Checkpoint](https://www.youtube.com/watch?v=_-pwZuOKRis)
     - [Video final](https://)
-    - 
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/solbyte.jpg" alt="Presentación FFEOE: Solbyte" height="50px">
+        </a>
 
 * **03: Plataforma unificada para entornos de desarrollo** - Beatriz Castilla Cantero
     - [Anteproyecto](https://grizzly-snarl-0f3.notion.site/Anteproyecto-Plataforma-unificada-para-entornos-de-desarrollo-329c929504cb8015aba7e7368e250a76)
@@ -46,7 +49,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://drive.google.com/file/d/1AFH1xQIlrV04H-TdH2boaN57socgKmSd/view)
     - [2º Checkpoint](https://drive.google.com/file/d/1u8rm9xVOTKoYmnCTS2eB_ZBlXLFgHRtM/view)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/dedalus.JPG" alt="Presentación FFEOE: Dedalus" height="50px">
+        </a>
 
 * **04: Autoservicio** - Alejandro Cano Gil
     - [Anteproyecto](https://spurious-barnacle-f4d.notion.site/Anteproyecto-TFG-ASIR-AutoServicio-32cbe06e75a2801b8134c994f5ac8ec3)
@@ -62,7 +69,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/eurocabos.png" alt="Presentación FFEOE: Eurocabos" height="50px">
+        </a>
 
 * **06: Pohl-SafeStorage** - David Fernández Maestre
     - [Anteproyecto](https://www.notion.so/Anteproyecto-Pohl-SafeStorage-32d258c7c1548010aab1fe4c996182f3)
@@ -70,7 +81,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - [Presentación FFEOE](https://)
+    - ***Presentación FFEOE:***
+
+        <a href="https://" target="_blank">
+          <img src="img/erasmus-plus.png" alt="Presentación FFEOE: Erasmus+" height="50px">
+        </a>
 
 * **07: Implementación de infraestructura integral virtualizada educativa** - Eric Alexandru Vladescu
     - [Anteproyecto](https://likeable-shad-c46.notion.site/Anteproyecto-de-Fin-de-Grado-ASIR-a285f0f5c4944430844bd7880508413c)
