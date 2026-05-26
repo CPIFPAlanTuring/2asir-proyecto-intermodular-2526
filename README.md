@@ -26,7 +26,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [2º Checkpoint](https://drive.google.com/file/d/1yybTzbHj8UptrbnjbF-4yTeOj3xhz9xT/view)
     - [Video final](https://)
 
-
+    <br>
     <img height="50px" src="img/freepik.png">
     
     - [Presentación FFEOE](https://)
