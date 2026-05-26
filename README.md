@@ -25,7 +25,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://drive.google.com/file/d/1Tj2t0JpeYWeo3JPjqJSz48cu8FWjtGPz/view)
     - [2º Checkpoint](https://drive.google.com/file/d/1yybTzbHj8UptrbnjbF-4yTeOj3xhz9xT/view)
     - [Video final](https://)
-    - <u>Presentación FFEOE</u>:
+    - *Presentación FFEOE*:
 
         <a href="https://www.google.com" target="_blank">
           <img src="img/freepik.png" alt="Presentación FFEOE: Freepik" height="50px">
