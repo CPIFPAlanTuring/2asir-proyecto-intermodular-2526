@@ -148,7 +148,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - ***Presentación FFEOE: Ayuntamiento de Alhaurín de la Torre***
 
         <a href="https://" target="_blank">
-          <img src="img/alhaurin.png" alt="Presentación FFEOE: Ayuntamiento de Alhaurín de la Torre" height="50px">
+          <img src="img/alhaurin.jpg" alt="Presentación FFEOE: Ayuntamiento de Alhaurín de la Torre" height="50px">
         </a>
 
 * **12: Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
@@ -160,7 +160,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - ***Presentación FFEOE: QUANTIA***
 
         <a href="https://" target="_blank">
-          <img src="img/quantia.png" alt="Presentación FFEOE: QUANTIA" height="30px">
+          <img src="img/quantia.png" alt="Presentación FFEOE: QUANTIA" height="20px">
         </a>
 
 * **13: Sistema de gestión integral para gimnasios** - Javier Aguilar Postigo
@@ -172,7 +172,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - ***Presentación FFEOE: Babel***
 
         <a href="https://" target="_blank">
-          <img src="img/babel.png" alt="Presentación FFEOE: Babel" height="50px">
+          <img src="img/babel.png" alt="Presentación FFEOE: Babel" height="30px">
         </a>
  
 * **14: Sistema Automático de Control de Accesos** - Jose Alcaide Fernández
@@ -184,7 +184,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
         - ***Presentación FFEOE: Anytech 365***
 
         <a href="https://" target="_blank">
-          <img src="img/anytech365.png" alt="Presentación FFEOE: Anytech 365" height="50px">
+          <img src="img/anytech365.png" alt="Presentación FFEOE: Anytech 365" height="30px">
         </a>
 
 ## 📝 Fechas a tener en cuenta
