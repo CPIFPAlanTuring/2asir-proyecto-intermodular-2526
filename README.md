@@ -148,7 +148,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - ***Presentación FFEOE: Ayuntamiento de Alhaurín de la Torre***
 
         <a href="https://" target="_blank">
-          <img src="img/alhaurin.jpg" alt="Presentación FFEOE: Ayuntamiento de Alhaurín de la Torre" height="50px">
+          <img src="img/alhaurin.jpg" alt="Presentación FFEOE: Ayuntamiento de Alhaurín de la Torre" height="70px">
         </a>
 
 * **12: Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
