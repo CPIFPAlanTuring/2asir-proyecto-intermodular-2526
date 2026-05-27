@@ -25,7 +25,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://drive.google.com/file/d/1Tj2t0JpeYWeo3JPjqJSz48cu8FWjtGPz/view)
     - [2º Checkpoint](https://drive.google.com/file/d/1yybTzbHj8UptrbnjbF-4yTeOj3xhz9xT/view)
     - [Video final](https://)
-    - ***Presentación FFEOE:***
+    - ***Presentación FFEOE: Magnific***
 
         <a href="https://" target="_blank">
           <img src="img/magnific.png" alt="Presentación FFEOE: Magnific" height="50px">
@@ -37,7 +37,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://www.youtube.com/watch?v=YZFJJDdT_FM)
     - [2º Checkpoint](https://www.youtube.com/watch?v=_-pwZuOKRis)
     - [Video final](https://)
-    - ***Presentación FFEOE:***
+    - ***Presentación FFEOE: Solbyte***
 
         <a href="https://" target="_blank">
           <img src="img/solbyte.jpg" alt="Presentación FFEOE: Solbyte" height="50px">
@@ -49,7 +49,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://drive.google.com/file/d/1AFH1xQIlrV04H-TdH2boaN57socgKmSd/view)
     - [2º Checkpoint](https://drive.google.com/file/d/1u8rm9xVOTKoYmnCTS2eB_ZBlXLFgHRtM/view)
     - [Video final](https://)
-    - ***Presentación FFEOE:***
+    - ***Presentación FFEOE: Dedalus***
 
         <a href="https://" target="_blank">
           <img src="img/dedalus.JPG" alt="Presentación FFEOE: Dedalus" height="50px">
@@ -61,7 +61,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - ***Presentación FFEOE:***
+    - ***Presentación FFEOE: Dedalus***
 
         <a href="https://" target="_blank">
           <img src="img/dedalus.JPG" alt="Presentación FFEOE: Dedalus" height="50px">
@@ -73,7 +73,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - ***Presentación FFEOE:***
+    - ***Presentación FFEOE: Eurocabos Sur***
 
         <a href="https://" target="_blank">
           <img src="img/eurocabos.png" alt="Presentación FFEOE: Eurocabos" height="50px">
@@ -85,7 +85,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - ***Presentación FFEOE:***
+    - ***Presentación FFEOE: Pohl Verwaltung-Und Beteiligungs Gmbh & Co.Kg***
 
         <a href="https://" target="_blank">
           <img src="img/erasmus-plus.png" alt="Presentación FFEOE: Erasmus+" height="50px">
@@ -97,7 +97,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - ***Presentación FFEOE:***
+    - ***Presentación FFEOE: Yes Innovation Academy***
 
         <a href="https://" target="_blank">
           <img src="img/erasmus-plus.png" alt="Presentación FFEOE: Erasmus+" height="50px">
@@ -109,10 +109,10 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - ***Presentación FFEOE:***
+    - ***Presentación FFEOE: ASAC***
 
         <a href="https://" target="_blank">
-          <img src="img/erasmus-plus.png" alt="Presentación FFEOE: Erasmus+" height="50px">
+          <img src="img/asac.png" alt="Presentación FFEOE: ASAC" height="50px">
         </a>
 
 * **09: Cologne DataHub: Arquitectura, Seguridad y Orquestación de una API de Geodatos** - Francisco Gómez Palomo
@@ -121,10 +121,10 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-    - ***Presentación FFEOE:***
+    - ***Presentación FFEOE: Zentrum Für Lehrerfortbildung***
 
         <a href="https://" target="_blank">
-          <img src="img/asac.png" alt="Presentación FFEOE: ASAC" height="50px">
+          <img src="img/erasmus-plus.png" alt="Presentación FFEOE: Erasmus+" height="50px">
         </a>
 
 * **10: Plataforma de virtualización centralizada para entornos educativos con Proxmox VE** - Esther Estefany Cruz Nina
