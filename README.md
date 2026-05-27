@@ -28,7 +28,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - ***Presentación FFEOE:***
 
         <a href="https://" target="_blank">
-          <img src="img/freepik.png" alt="Presentación FFEOE: Freepik" height="50px">
+          <img src="img/magnific.png" alt="Presentación FFEOE: Magnific" height="50px">
         </a>
  
 * **02: Servidor IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
