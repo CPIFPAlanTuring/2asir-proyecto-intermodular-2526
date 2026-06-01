@@ -48,7 +48,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto](https://github.com/beatriz2c/2asir-proyecto-intermodular-2526-bcascan499)
     - [Checkpoint](https://drive.google.com/file/d/1AFH1xQIlrV04H-TdH2boaN57socgKmSd/view)
     - [2º Checkpoint](https://drive.google.com/file/d/1u8rm9xVOTKoYmnCTS2eB_ZBlXLFgHRtM/view)
-    - [Video final](https://)
+    - [Video final](https://drive.google.com/file/d/15NB11TM613yvMSILXjTZPd-w_PnCKAPd/view?usp=drive_link)
     - ***Presentación FFEOE: Dedalus***
 
         <a href="https://" target="_blank">
