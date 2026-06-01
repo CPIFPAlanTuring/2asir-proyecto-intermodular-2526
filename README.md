@@ -82,8 +82,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **06: Pohl-SafeStorage** - David Fernández Maestre
     - [Anteproyecto](https://www.notion.so/Anteproyecto-Pohl-SafeStorage-32d258c7c1548010aab1fe4c996182f3)
     - [Repositorio del proyecto](https://github.com/DavidFernandezMaestre/pohl-cloud-infrastructure)
-    - [Checkpoint](https://)
-    - [2º Checkpoint](https://)
+    - [Checkpoint](https://youtu.be/h2p8LPaSUyM)
+    - [2º Checkpoint](https://youtu.be/IQ2sITh-2hg)
     - [Video final](https://)
     - ***Presentación FFEOE: Pohl Verwaltung-Und Beteiligungs Gmbh & Co.Kg***
 
