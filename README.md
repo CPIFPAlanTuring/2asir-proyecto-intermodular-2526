@@ -197,8 +197,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 ## ⏰ Cuadrante horario de las exposiciones
 
 Duración de la exposición:
-* Será de **10 minutos** para los **grupos de dos personas**.
-* Será de **5 minutos** para el **alumnado** que haya decidido realizar el proyecto **solo**.
+* Será de **20 minutos** para los **grupos de dos personas**.
+* Será de **15 minutos** para el **alumnado** que haya decidido realizar el proyecto **solo**.
 
 Tras cada exposicón se abrirá un tiempo de pregruntas de 5 minutos.
 
