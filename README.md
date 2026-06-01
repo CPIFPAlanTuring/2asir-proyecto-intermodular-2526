@@ -118,8 +118,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **09: Cologne DataHub: Arquitectura, Seguridad y Orquestación de una API de Geodatos** - Francisco Gómez Palomo
     - [Anteproyecto](https://cologne-datahub.notion.site/Cologne-Datahub-32dd13355df8804db043f28942998cc6)
     - [Repositorio del proyecto](https://github.com/SaitamaRules/Cologne-Datahub)
-    - [Checkpoint](https://)
-    - [2º Checkpoint](https://)
+    - [Checkpoint](https://youtu.be/XPgJadHXoes)
+    - [2º Checkpoint](https://youtu.be/jPhiLAbg6hs)
     - [Video final](https://)
     - ***Presentación FFEOE: Zentrum Für Lehrerfortbildung***
 
