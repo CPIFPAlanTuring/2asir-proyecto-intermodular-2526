@@ -106,8 +106,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **08: Diseño e implementación de una infraestructura IT para una empresa SaaS** - Francisco Brenes Moreno
     - [Anteproyecto](https://global-griffin-672.notion.site/AnteProyecto-Francisco-Brenes-Moreno-32d4ddae9a52801694dcc5118e01a2ea)
     - [Repositorio del proyecto](https://github.com/FranBrenes/ProyectoFBM)
-    - [Checkpoint](https://)
-    - [2º Checkpoint](https://)
+    - [Checkpoint](https://youtu.be/UDBudd4ipVk)
+    - [2º Checkpoint](https://www.youtube.com/watch?v=zF-HfEBfEWo)
     - [Video final](https://)
     - ***Presentación FFEOE: ASAC***
 
