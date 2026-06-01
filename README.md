@@ -166,9 +166,9 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **13: Sistema de gestión integral para gimnasios** - Javier Aguilar Postigo
     - [Anteproyecto](https://plausible-wing-65d.notion.site/Anteproyecto-Javier-Aguilar-Postigo-32ddce04cbf9806f87b6f73c57f94367)
     - [Repositorio del proyecto](https://github.com/JavierAgui1/ProyectoJAP)
-    - [Checkpoint](https://)
-    - [2º Checkpoint](https://)
-    - [Video final](https://youtu.be/f2U6f8ZaO4M)
+    - [Checkpoint](https://www.youtube.com/watch?v=cbqLiKCW5PE)
+    - [2º Checkpoint](https://youtu.be/qrCxt-H6VPU)
+    - [Video final](https://)
     - ***Presentación FFEOE: Babel***
 
         <a href="https://" target="_blank">
