@@ -58,8 +58,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **04: Autoservicio** - Alejandro Cano Gil
     - [Anteproyecto](https://spurious-barnacle-f4d.notion.site/Anteproyecto-TFG-ASIR-AutoServicio-32cbe06e75a2801b8134c994f5ac8ec3)
     - [Repositorio del proyecto](https://github.com/canillo1/AutoServicio)
-    - [Checkpoint](https://)
-    - [2º Checkpoint](https://)
+    - [Checkpoint](https://youtu.be/DAk_RvIIrWM)
+    - [2º Checkpoint](https://youtu.be/g5xAuYVIswY)
     - [Video final](https://)
     - ***Presentación FFEOE: Dedalus***
 
