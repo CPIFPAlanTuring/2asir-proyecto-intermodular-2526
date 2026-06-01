@@ -94,7 +94,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **07: Implementación de infraestructura integral virtualizada educativa** - Eric Alexandru Vladescu
     - [Anteproyecto](https://likeable-shad-c46.notion.site/Anteproyecto-de-Fin-de-Grado-ASIR-a285f0f5c4944430844bd7880508413c)
     - [Repositorio del proyecto](https://github.com/EricOpss/Proyecto-ASIR)
-    - [Checkpoint](https://)
+    - [Checkpoint](https://drive.google.com/file/d/1Ur34Q4T254v5UjB0C7scu666iRX5bcVC/view?usp=sharing)
     - [2º Checkpoint](https://)
     - [Video final](https://)
     - ***Presentación FFEOE: Yes Innovation Academy***
