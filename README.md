@@ -208,19 +208,19 @@ El alumnado deberá llegar con tiempo suficiente a su presentación. La exposici
 
 #### :calendar: miércoles 03 de junio de 2026
 
-- [ ] 09:30h **Snipe-IT en Docker (Sistema de Inventariado)** - Víctor Díaz Viceira
-- [ ] 09:45h **Servidor IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
-- [ ] 10:05h **Plataforma unificada para entornos de desarrollo** - Beatriz Castilla Cantero
-- [ ] 10:20h **Autoservicio** - Alejandro Cano Gil
-- [ ] 10:35h **Gestión de tickets interno** - Noé Medina González
-- [ ] 10:50h **Pohl-SafeStorage** - David Fernández Maestre
-- [ ] 12:00h **Implementación de infraestructura integral virtualizada educativa** - Eric Alexandru Vladescu
-- [ ] 12:15h **Diseño e implementación de una infraestructura IT para una empresa SaaS** - Francisco Brenes Moreno
-- [ ] 12:30h **Cologne DataHub: Arquitectura, Seguridad y Orquestación de una API de Geodatos** - Francisco Gómez Palomo
+- [ ] 08:25h **Snipe-IT en Docker (Sistema de Inventariado)** - Víctor Díaz Viceira
+- [ ] 08:50h **Servidor IT** - Naira Da Silva Benítez y Raúl Ramírez Jiménez
+- [ ] 09:20h **Plataforma unificada para entornos de desarrollo** - Beatriz Castilla Cantero
+- [ ] 09:45h **Autoservicio** - Alejandro Cano Gil
+- [ ] 10:10h **Gestión de tickets interno** - Noé Medina González
+- [ ] 10:35h **Pohl-SafeStorage** - David Fernández Maestre
+- [ ] 11:30h **Implementación de infraestructura integral virtualizada educativa** - Eric Alexandru Vladescu
+- [ ] 11:55h **Diseño e implementación de una infraestructura IT para una empresa SaaS** - Francisco Brenes Moreno
+- [ ] 12:20h **Cologne DataHub: Arquitectura, Seguridad y Orquestación de una API de Geodatos** - Francisco Gómez Palomo
 - [ ] 12:45h **Plataforma de virtualización centralizada para entornos educativos con Proxmox VE** - Esther Estefany Cruz Nina
-- [ ] 13:00h **Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
-- [ ] 13:15h **Sistema de gestión integral para gimnasios** - Javier Aguilar Postigo
-- [ ] 13:30h **Sistema Automático de Control de Accesos** - Jose Alcaide Fernández
+- [ ] 13:10h **Automatización de procesos RRHH y ERP** - Ignacio Domínguez Díaz
+- [ ] 13:35h **Sistema de gestión integral para gimnasios** - Javier Aguilar Postigo
+- [ ] 14:00h **Sistema Automático de Control de Accesos** - Jose Alcaide Fernández
 
 #### :calendar: miércoles 10 de junio de 2026
 - [ ] 09:30h **NOC-ALH — Centro de Operaciones de Red** - Roberto Sánchez Ortega
