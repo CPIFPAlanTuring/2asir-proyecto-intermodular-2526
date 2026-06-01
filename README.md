@@ -130,8 +130,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **10: Plataforma de virtualización centralizada para entornos educativos con Proxmox VE** - Esther Estefany Cruz Nina
     - [Anteproyecto](https://www.notion.so/Plataforma-de-virtualizaci-n-centralizada-para-entornos-educativos-con-Proxmox-VE-32c3b7acf62a8099a664d19e77d11e9c)
     - [Repositorio del proyecto](https://github.com/ecrunin612/PVE-ELECTRICIDAD_2ASIR_PI)
-    - [Checkpoint](https://)
-    - [2º Checkpoint](https://)
+    - [Checkpoint](https://drive.google.com/file/d/1-hb_2Ml3XoLKBVx6sKL-OlCFUXpJWoXE/view?usp=sharing)
+    - [2º Checkpoint](https://drive.google.com/file/d/1DsB5h9cxvgAOEx5OnLEwAfmB1bUCYQSx/view?usp=sharing)
     - [Video final](https://)
     - ***Presentación FFEOE: IES Politécnico Jesús Marín***
 
