@@ -156,7 +156,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto](https://github.com/Idomdia0906/2asir-proyecto-automatizacion-quantia)
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
-    - [Video final](https://)
+    - [Video final](https://youtu.be/f2U6f8ZaO4M)
     - ***Presentación FFEOE: QUANTIA***
 
         <a href="https://" target="_blank">
