@@ -70,8 +70,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **05: Gestión de tickets interno** - Noé Medina González
     - [Anteproyecto](https://absorbed-success-064.notion.site/Anteproyecto-No-Medina-Gonz-lez-32cd0c37c3368045a2b9ed353acf8e53)
     - [Repositorio del proyecto](https://github.com/noemg04/eurocabos-tickets)
-    - [Checkpoint](https://)
-    - [2º Checkpoint](https://)
+    - [Checkpoint](https://drive.google.com/drive/folders/1FGxzWcTlmPaIAEaSXoaERhWRBc6nHA3e)
+    - [2º Checkpoint](https://drive.google.com/file/d/1cPPlYCacuLq5jNBRqVV74splI2SZlAs5/view)
     - [Video final](https://)
     - ***Presentación FFEOE: Eurocabos Sur***
 
