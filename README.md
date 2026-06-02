@@ -36,10 +36,10 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto](https://github.com/lilwalrus/Proyecto-Servidor-IT-Naira-Da-Silva-y-Ra-l-Ram-rez-)
     - [Checkpoint](https://www.youtube.com/watch?v=YZFJJDdT_FM)
     - [2º Checkpoint](https://www.youtube.com/watch?v=_-pwZuOKRis)
-    - [Video final](https://)
+    - [Video final](https://youtu.be/w1Oek9-SkKY)
     - ***Presentación FFEOE: Solbyte***
 
-        <a href="https://" target="_blank">
+        <a href="https://youtu.be/pDL4bwfj2_U" target="_blank">
           <img src="img/solbyte.jpg" alt="Presentación FFEOE: Solbyte" height="50px">
         </a>
 
