@@ -51,7 +51,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://drive.google.com/file/d/15NB11TM613yvMSILXjTZPd-w_PnCKAPd/view?usp=drive_link)
     - ***Presentación FFEOE: Dedalus***
 
-        <a href="https://" target="_blank">
+        <a href="https://drive.google.com/file/d/1lKKbdeq3gKs5-KwO2IZQJUGhcas6YqiR/view" target="_blank">
           <img src="img/dedalus.JPG" alt="Presentación FFEOE: Dedalus" height="50px">
         </a>
 
