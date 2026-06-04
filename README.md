@@ -135,7 +135,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
     - ***Presentación FFEOE: IES Politécnico Jesús Marín***
 
-        <a href="https://" target="_blank">
+        <a href="https://drive.google.com/file/d/1v6tfffTejX0FifR5PvwTmD4429Bt2vh5/view" target="_blank">
           <img src="img/poli.png" alt="Presentación FFEOE: IES Politécnico" height="50px">
         </a>
 
