@@ -27,7 +27,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
     - ***Presentación FFEOE: Magnific***
 
-        <a href="https://" target="_blank">
+        <a href="https://drive.google.com/file/d/1Fth87cGHHHRBfXi4tuSNybViGF3tUKsb/view" target="_blank">
           <img src="img/magnific.png" alt="Presentación FFEOE: Magnific" height="50px">
         </a>
  
