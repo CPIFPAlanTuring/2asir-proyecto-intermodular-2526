@@ -181,7 +181,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [2º Checkpoint](https://)
     - [Video final](https://)
-        - ***Presentación FFEOE: Anytech 365***
+    - ***Presentación FFEOE: Anytech 365***
 
         <a href="https://" target="_blank">
           <img src="img/anytech365.png" alt="Presentación FFEOE: Anytech 365" height="30px">
