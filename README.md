@@ -24,7 +24,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto](https://github.com/CoKayn22/01-Proyecto-Snipe-it-en-Docker---Alumno-Victor-Diaz-Viceira)
     - [Checkpoint](https://drive.google.com/file/d/1Tj2t0JpeYWeo3JPjqJSz48cu8FWjtGPz/view)
     - [2º Checkpoint](https://drive.google.com/file/d/1yybTzbHj8UptrbnjbF-4yTeOj3xhz9xT/view)
-    - [Video final](https://)
+    - [Video final](https://drive.google.com/file/d/1mfEGO3CRfaZ8Ee2NtZ56tSlWA6L78vrR/view)
     - ***Presentación FFEOE: Magnific***
 
         <a href="https://drive.google.com/file/d/1Fth87cGHHHRBfXi4tuSNybViGF3tUKsb/view" target="_blank">
